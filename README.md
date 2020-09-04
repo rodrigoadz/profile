@@ -10,14 +10,14 @@
 
 ### Linguagens de Programação e Recursos:
 
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/python.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/tensorflow.jpg'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/sql.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/html.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/css.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/javascript.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/git.png'/>
-<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/portifolio/blob/master/icons/docker.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/python.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/tensorflow.jpg'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/sql.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/html.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/css.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/javascript.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/git.png'/>
+<img align=left alt='Python' width=30px src='https://github.com/rodrigoadz/profile/blob/master/icons/docker.png'/>
 
 <br>
 <br>
