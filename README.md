@@ -25,4 +25,5 @@
 ## 📝 Projetos:
 ---
 * [Análise Explotatória Airbnb](https://github.com/rodrigoadz/portifolio/blob/master/notebooks/EDA_Airbnb.ipynb)
+* [Scraping Bot](https://github.com/rodrigoadz/scraping_bot)
 * [Análise Exploraória de Radiação]()
