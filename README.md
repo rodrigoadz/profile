@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-rodrigosousa-green.svg)]()
 
 # Bem Vindo! Rodrigo aqui
-![wallpaper](https://github.com/rodrigoadz/profile/blob/master/skills.png)
+![wallpaper](https://github.com/rodrigoadz/profile/blob/master/ds.png)
 
 - 📊 Análise exploratória
 - 📚 Storytelling
