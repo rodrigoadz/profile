@@ -1,5 +1,7 @@
 [![author](https://img.shields.io/badge/author-rodrigosousa-green.svg)]()
 
+![wallpaper](https://github.com/rodrigoadz/profile/blob/master/ds.png)
+
 - 📊 Análise exploratória
 - 📚 Storytelling
 - 🤖 Machine Leaning
